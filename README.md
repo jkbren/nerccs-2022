@@ -27,13 +27,13 @@ pip install -r requirements.txt
 
 ### 3. "I don't want to live-code this tutorial."
 
-Follow along in the jupyter notebook [here](https://nbviewer.jupyter.org/github/jkbren/nerccs-2022/blob/master/data-vizualization-nerccs.ipynb?flush_cache=true)!
+Follow along in the jupyter notebook [here](https://nbviewer.org/github/jkbren/nerccs-2022/blob/master/data-visualization-nerccs.ipynb)!
 
-# Want us to cover something?
+# Want me to cover something?
 
 Open an issue [here](https://github.com/jkbren/nerccs-2022/issues) and we'll add content!
 
 
-## Contributors
+## Contributor
 
 - Brennan Klein [@jkbren](https://github.com/jkbren)
